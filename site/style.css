@@ -3,3 +3,6 @@
 
 /* Bootstrap Icons: local SVG assets, MIT license in assets/icons/LICENSE. */
 .icon{width:18px;height:18px;display:inline-block;flex-shrink:0;vertical-align:-.15em}.inline-icon{display:inline-flex;align-items:center;justify-content:center}.inline-icon .icon{width:16px;height:16px}.brand-icon .icon{width:26px;height:26px}.choice-icon{display:grid;place-items:center;width:42px;height:42px;flex-shrink:0;border-radius:11px;background:var(--soft)}.choice-icon .icon{width:24px;height:24px}.project-choice[aria-pressed=true] .choice-icon{background:var(--blue);color:white}.run-check .icon{width:13px;height:13px}.github-link{display:inline-flex;align-items:center;gap:8px}.button>.icon{width:17px;height:17px}.window-dots{display:flex;gap:5px;align-items:center}.window-dots i{width:6px;height:6px;border-radius:50%;background:#a9b5c8}.pipeline .inline-icon{padding:0;background:none;border-radius:0}.project-description li:before{content:"";width:14px;height:14px;top:4px;background:var(--blue);mask:url("assets/icons/check-lg.svg") center/contain no-repeat;-webkit-mask:url("assets/icons/check-lg.svg") center/contain no-repeat}.download .icon{width:15px;height:15px;margin-right:5px}
+
+/* Lucide arrows: a consistent light, rounded outline. */
+.inline-icon .arrow-icon{width:18px;height:18px;stroke-width:1.35}.pipeline .inline-icon .arrow-icon{width:16px;height:16px}
