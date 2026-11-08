@@ -2,6 +2,8 @@
 
 Three working Python automation demos: a website scraper, a price change monitor, and a private Telegram expense bot. Built to demonstrate practical freelance tasks with readable code, persistent storage, offline examples, and automated tests.
 
+**[Visit the portfolio website](https://iseudueneue2-ux.github.io/freelance-bots-portfolio/)** — Ukrainian project showcase with interactive browser demos. The static website lives in `site/` and is deployed through GitHub Pages.
+
 [Українська інструкція](docs/README.uk.md) · [Demo output](examples/demo-output.md)
 
 | Project | Client task | What it delivers |
