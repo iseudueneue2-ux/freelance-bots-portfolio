@@ -1,8 +1,10 @@
-# Freelance Bots Portfolio
+# Cryvex — websites and automation
 
 Three working Python automation demos: a website scraper, a price change monitor, and a private Telegram expense bot. Built to demonstrate practical freelance tasks with readable code, persistent storage, offline examples, and automated tests.
 
 **[Visit the portfolio website](https://iseudueneue2-ux.github.io/freelance-bots-portfolio/)** — Ukrainian project showcase with interactive browser demos. The static website lives in `site/` and is deployed through GitHub Pages.
+
+The website now includes a five-step working process and real screenshots of two original web projects: this portfolio and **[Misto Coffee](https://iseudueneue2-ux.github.io/misto-coffee/)**, a fictional café website with menu filtering, price sorting, a persistent cart and text order export. [Misto Coffee source](https://github.com/iseudueneue2-ux/misto-coffee). These are independently built portfolio projects, not commissioned client case studies.
 
 [Українська інструкція](docs/README.uk.md) · [Demo output](examples/demo-output.md)
 
